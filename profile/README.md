@@ -7,3 +7,4 @@
 Testing: [https://booking-22515.web.app/](https://booking-22515.web.app/)
 
 ## Для бэкендеров
+Testing: [http://51.250.18.139/](http://51.250.18.139/)
