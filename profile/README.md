@@ -6,7 +6,7 @@
 Swagger: [http://test.api.quicktable.ru/](http://test.api.quicktable.ru/)
 
 ## Для фронтендеров
-Testing: [https://booking-22515.web.app/](https://booking-22515.web.app/)
+Testing: [https://test.frontend.quicktable.ru/](https://test.frontend.quicktable.ru/)
 
 ## Для бэкендеров
 Testing: [http://test.api.quicktable.ru/](http://test.api.quicktable.ru/)
