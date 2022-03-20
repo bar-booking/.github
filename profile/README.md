@@ -9,4 +9,4 @@ Swagger: [http://test.api.quicktable.ru/](http://test.api.quicktable.ru/)
 Testing: [https://test.frontend.quicktable.ru/](https://test.frontend.quicktable.ru/)
 
 ## Для бэкендеров
-Testing: [http://test.api.quicktable.ru/](http://test.api.quicktable.ru/)
+Testing: [https://test.backend.quicktable.ru/](https://test.backend.quicktable.ru/)
